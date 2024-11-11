@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodBlog/static/css/main.e6c13ad2.css",
+    "main.js": "/foodBlog/static/js/main.8e3c0da8.js",
+    "static/js/453.ad6eb26e.chunk.js": "/foodBlog/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/foodBlog/index.html",
+    "main.e6c13ad2.css.map": "/foodBlog/static/css/main.e6c13ad2.css.map",
+    "main.8e3c0da8.js.map": "/foodBlog/static/js/main.8e3c0da8.js.map",
+    "453.ad6eb26e.chunk.js.map": "/foodBlog/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8e3c0da8.js"
+  ]
+}
